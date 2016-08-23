@@ -1,0 +1,26 @@
+{
+  "name": "init",
+  "version": "5.3.0",
+  "description": "init",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyoikawa/site-estudo.git"
+  },
+  "keywords": [
+    "estudo"
+  ],
+  "author": "willian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyoikawa/site-estudo/issues"
+  },
+  "homepage": "https://github.com/wyoikawa/site-estudo#readme"
+}
